@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "NomeDoApp",
+    "slug": "nome-do-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tales.fds.faturamento"
+    },
+    "android": {
+      "package": "com.tales.fds.faturamento"
+    },
+    "sdkVersion": "51.0.0"
+  }
+}
